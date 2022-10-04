@@ -1,0 +1,11 @@
+aws_region                  = ""
+aws_profile                 = ""
+create_aws_resources        = true
+unity_metastore_bucket      = ""
+unity_metastore_iam         = ""
+unity_admin_group           = ""
+databricks_workspace_host   = ""
+databricks_workspace_ids    = [""]
+databricks_account_id       = ""
+databricks_account_username = ""
+#databricks_account_password = ""
