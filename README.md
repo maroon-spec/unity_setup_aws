@@ -1,3 +1,7 @@
+
+こちらのQiita記事もご覧ください。
+https://qiita.com/maroon-db/items/70d8eb95aa9c3b978fca
+
 # Terraform setup for AWS UC resources
 
 <!-- BEGIN_TF_DOCS -->
